@@ -1,7 +1,5 @@
 # Go Font Yourself - Style Transfer for Typeface Generation
 
-![Go Font Yourself Logo](gofontyourself_logo.png)
-
 ## Introduction
 
 Welcome to **Go Font Yourself**, a creative experiment in using style transfer techniques to generate fonts. This notebook was instrumental in the development of [www.gofontyourself.xyz](https://www.gofontyourself.xyz) and was presented during the Human Factors in Computing (CHI'21) conference.
